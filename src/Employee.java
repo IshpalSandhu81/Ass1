@@ -2,7 +2,7 @@
 public class Employee {
 
 	
-	int empployee ;
+	int employee ;
 	
 	
 }
